@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Easy Manual</string>
+    <string name="action_logout">Log Out</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
